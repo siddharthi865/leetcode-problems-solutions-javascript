@@ -6,6 +6,6 @@ const twoSum = (nums, target) => {
       }
     }
   }
-
-  return [];
 };
+
+module.exports = twoSum;
