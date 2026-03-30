@@ -1,12 +1,12 @@
 // Import all 3 solutions
 const twoSumBrute = require("./solutions/solution1");
-// const twoSumSort = require('./twoSumSort');
-const twoSumOptimal = require("./solutions/solution2");
+const twoSumSort = require("./solutions/solution2");
+const twoSumOptimal = require("./solutions/solution3");
 
 // Store solutions
 const solutions = [
   { name: "Brute Force", fn: twoSumBrute },
-  // { name: 'Sorting + Two Pointer', fn: twoSumSort },
+  { name: "Sorting + Two Pointer", fn: twoSumSort },
   { name: "Hash Map (Optimal)", fn: twoSumOptimal },
 ];
 
