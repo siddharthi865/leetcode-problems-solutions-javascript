@@ -1,0 +1,1 @@
+3752 Lexicographically Smallest Negated Permutation that Sums to Target Med
