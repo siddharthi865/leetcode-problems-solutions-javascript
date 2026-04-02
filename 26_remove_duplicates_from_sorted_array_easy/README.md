@@ -94,14 +94,3 @@ Since the array is sorted, duplicates are adjacent.
 | ---------------------- | --------------- | ---------------- | --------------------------- |
 | Brute Force            | O(n)            | O(n)             | Uses extra array            |
 | Two Pointers (Optimal) | O(n)            | O(1)             | In-place and most efficient |
-
-```
-
----
-
-If you want, I can also add:
-
-- visual diagrams (pointer movement)
-- dry run tables
-- or GitHub badges + structure improvements 🚀
-```
