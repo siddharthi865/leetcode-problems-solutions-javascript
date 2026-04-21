@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:clean": "jest --clearCache && jest"
   },
   "keywords": [],
   "author": "",
